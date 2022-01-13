@@ -15,3 +15,7 @@
     <img alt="JWT" src="https://img.shields.io/badge/-JWT-8600a9?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
     <img alt="GitHub" src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
+
+<div align="center">   
+    <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yossefezzat&layout=compact&theme=dracula"> 
+</div>
