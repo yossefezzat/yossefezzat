@@ -17,11 +17,11 @@
   <img align="center" width = 35px  src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://leetcode.com/youssefezzat/">
-  <img align="center" width = "60px"  src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" />
+  <img align="center" width = "80px"  src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" />
 </a>
 
 <a href="mailto:ye.fci2020@gmail.com">
-  <img align="center" width = 35px  src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r2.png" />
+  <img align="center" width = "80px"  src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r2.png" />
 </a>
 </div>
 <br>
