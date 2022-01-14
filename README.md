@@ -6,10 +6,10 @@
 
 <div align="center">
 <a href="https://twitter.com/ye_ezzat">
-  <img align="left"  width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left"  width="35px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/youssef--ezzat/">
-  <img align="left"  src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" width = 35px  src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 </div>
 # Skills
