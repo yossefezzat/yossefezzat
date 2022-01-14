@@ -1,4 +1,8 @@
-# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm Youssef 👦🏻💻
+# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+### i'm Youssef Ezzat 👦🏻💻, a passionate self-taught Software Engineer.
+
+### My passion for software Engineering, Problem Solving, Computer Science Fundamentals.
 
 <div align="center">
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60%">
@@ -12,6 +16,7 @@
   <img align="left" width = 35px  src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 </div>
+
 # Skills
 
 <p align="center">
