@@ -21,10 +21,9 @@
 </a>
 
 <a href="mailto:ye.fci2020@gmail.com">
-  <img align="center" width = 35px  src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/gmail.svg" />
+  <img align="center" width = 35px  src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r2.png" />
 </a>
 </div>
-
 <br>
 
 # Skills
