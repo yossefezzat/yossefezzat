@@ -1,6 +1,6 @@
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-### i'm Youssef Ezzat 👦🏻💻, a passionate self-taught Software Engineer.
+## I'm Youssef Ezzat 👦🏻💻, a passionate self-taught Software Engineer.
 
 ### My passion for software Engineering, Problem Solving, Computer Science Fundamentals.
 
@@ -15,6 +15,13 @@
 </a>
 <a href="https://www.linkedin.com/in/youssef--ezzat/">
   <img align="center" width = 35px  src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://leetcode.com/youssefezzat/">
+  <img align="center" width = 35px  src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/leetcode.svg" />
+</a>
+
+<a href="mailto:ye.fci2020@gmail.com">
+  <img align="center" width = 35px  src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/leetcode.svg" />
 </a>
 </div>
 
