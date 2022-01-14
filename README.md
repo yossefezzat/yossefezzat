@@ -16,7 +16,7 @@
   <img align="left" width = 35px  src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 </div>
-
+<br>
 # Skills
 
 <p align="center">
